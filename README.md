@@ -1,1 +1,1 @@
-<h3 align="center">Design Patterns for Web Development<h4>
+<h1 style="text-align: center; text-decoration: underlined;">Design Patterns for Web Development<h1>
