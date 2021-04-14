@@ -1,3 +1,3 @@
 # Design Patterns for Web Development
 
-- Singleton
+- [Singleton](https://github.com/SandroSD/Design-Patterns/tree/main/Singleton)
