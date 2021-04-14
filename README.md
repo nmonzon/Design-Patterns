@@ -1,5 +1,3 @@
-<h1 align='center'>Design Patterns for Web Development<h1>
+# Design Patterns for Web Development
 
-<ul>
-  <li><p>Singleton</p></li>
-</ul>
+- Singleton
